@@ -1,0 +1,80 @@
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51291	sea15s12-in-f195.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51292	sea30s02-in-f3.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51294	sea30s02-in-f14.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51295	sea30s01-in-f14.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51296	sea15s11-in-f162.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51297	sea15s11-in-f162.1e100.net	https	TIME_WAIT	3	102	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51186	sea30s02-in-f14.1e100.net	https	TIME_WAIT	1	39	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51318	wj-in-f156.1e100.net	https	TIME_WAIT	1	39	1	39						
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51311	64.4.54.254	https	TIME_WAIT	1	31								
+[System Process]	0	TCP	desktop-med4sld.ksd.edu	51280	den03s10-in-f42.1e100.net	https	TIME_WAIT	3	102	1	39						
+browser_broker.exe	5176	TCP	desktop-med4sld.ksd.edu	51328	72.21.81.200	https	ESTABLISHED	5	859	18	20,319						
+firefox.exe	6036	TCP	DESKTOP-MED4SLD	50121	localhost	50122	ESTABLISHED			145	145						
+firefox.exe	6036	TCP	DESKTOP-MED4SLD	50122	localhost	50121	ESTABLISHED	145	145								
+firefox.exe	8584	TCP	DESKTOP-MED4SLD	50124	localhost	50126	ESTABLISHED										
+firefox.exe	8564	TCP	DESKTOP-MED4SLD	50125	localhost	50127	ESTABLISHED										
+firefox.exe	8584	TCP	DESKTOP-MED4SLD	50126	localhost	50124	ESTABLISHED										
+firefox.exe	8564	TCP	DESKTOP-MED4SLD	50127	localhost	50125	ESTABLISHED										
+firefox.exe	8696	TCP	DESKTOP-MED4SLD	50128	localhost	50129	ESTABLISHED										
+firefox.exe	8696	TCP	DESKTOP-MED4SLD	50129	localhost	50128	ESTABLISHED										
+firefox.exe	8364	TCP	DESKTOP-MED4SLD	50178	localhost	50179	ESTABLISHED			61	61						
+firefox.exe	8364	TCP	DESKTOP-MED4SLD	50179	localhost	50178	ESTABLISHED	61	61								
+firefox.exe	8252	TCP	DESKTOP-MED4SLD	50187	localhost	50188	ESTABLISHED										
+firefox.exe	8252	TCP	DESKTOP-MED4SLD	50188	localhost	50187	ESTABLISHED										
+firefox.exe	6036	TCP	desktop-med4sld.ksd.edu	50304	ec2-52-35-55-244.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	5848	TCP	DESKTOP-MED4SLD	51044	localhost	51045	ESTABLISHED										
+firefox.exe	5848	TCP	DESKTOP-MED4SLD	51045	localhost	51044	ESTABLISHED										
+firefox.exe	7660	TCP	DESKTOP-MED4SLD	51061	localhost	51062	ESTABLISHED										
+firefox.exe	7660	TCP	DESKTOP-MED4SLD	51062	localhost	51061	ESTABLISHED										
+firefox.exe	8288	TCP	DESKTOP-MED4SLD	51071	localhost	51072	ESTABLISHED										
+firefox.exe	8288	TCP	DESKTOP-MED4SLD	51072	localhost	51071	ESTABLISHED										
+firefox.exe	6980	TCP	DESKTOP-MED4SLD	51176	localhost	51177	ESTABLISHED										
+firefox.exe	6980	TCP	DESKTOP-MED4SLD	51177	localhost	51176	ESTABLISHED										
+firefox.exe	6036	TCP	desktop-med4sld.ksd.edu	51272	lb-140-82-114-25-iad.github.com	https	ESTABLISHED	3	84	3	72						
+firefox.exe	6036	TCP	desktop-med4sld.ksd.edu	51325	64.4.54.254	https	ESTABLISHED	2	5,183	2	872						
+lsass.exe	696	TCP	DESKTOP-MED4SLD	49664	DESKTOP-MED4SLD	0	LISTENING										
+lsass.exe	696	TCPV6	desktop-med4sld	49664	desktop-med4sld	0	LISTENING										
+services.exe	676	TCP	DESKTOP-MED4SLD	49669	DESKTOP-MED4SLD	0	LISTENING										
+services.exe	676	TCPV6	desktop-med4sld	49669	desktop-med4sld	0	LISTENING										
+spoolsv.exe	2696	TCP	DESKTOP-MED4SLD	49668	DESKTOP-MED4SLD	0	LISTENING										
+spoolsv.exe	2696	TCPV6	desktop-med4sld	49668	desktop-med4sld	0	LISTENING										
+svchost.exe	956	TCP	DESKTOP-MED4SLD	epmap	DESKTOP-MED4SLD	0	LISTENING										
+svchost.exe	1836	TCP	DESKTOP-MED4SLD	5040	DESKTOP-MED4SLD	0	LISTENING										
+svchost.exe	1208	TCP	DESKTOP-MED4SLD	49666	DESKTOP-MED4SLD	0	LISTENING										
+svchost.exe	1164	TCP	DESKTOP-MED4SLD	49667	DESKTOP-MED4SLD	0	LISTENING										
+svchost.exe	3040	TCP	desktop-med4sld.ksd.edu	50759	52.230.222.68	https	ESTABLISHED	1	101	1	122						
+svchost.exe	6268	TCP	DESKTOP-MED4SLD	ms-do	DESKTOP-MED4SLD	0	LISTENING										
+svchost.exe	5476	UDP	desktop-med4sld.ksd.edu	ssdp	*	*											
+svchost.exe	5476	UDP	DESKTOP-MED4SLD	ssdp	*	*											
+svchost.exe	2120	UDP	DESKTOP-MED4SLD	ws-discovery	*	*											
+svchost.exe	2120	UDP	DESKTOP-MED4SLD	ws-discovery	*	*											
+svchost.exe	1836	UDP	DESKTOP-MED4SLD	5050	*	*											
+svchost.exe	1640	UDP	DESKTOP-MED4SLD	5353	*	*											
+svchost.exe	1640	UDP	DESKTOP-MED4SLD	llmnr	*	*											
+svchost.exe	3168	UDP	DESKTOP-MED4SLD	54079	*	*											
+svchost.exe	2120	UDP	DESKTOP-MED4SLD	54080	*	*											
+svchost.exe	5476	UDP	desktop-med4sld.ksd.edu	58715	*	*											
+svchost.exe	5476	UDP	DESKTOP-MED4SLD	58716	*	*											
+svchost.exe	1620	UDP	DESKTOP-MED4SLD	65360	*	*											
+svchost.exe	956	TCPV6	desktop-med4sld	epmap	desktop-med4sld	0	LISTENING										
+svchost.exe	6268	TCPV6	desktop-med4sld	ms-do	desktop-med4sld	0	LISTENING										
+svchost.exe	1208	TCPV6	desktop-med4sld	49666	desktop-med4sld	0	LISTENING										
+svchost.exe	1164	TCPV6	desktop-med4sld	49667	desktop-med4sld	0	LISTENING										
+svchost.exe	5476	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	5476	UDPV6	[fe80:0:0:0:6da3:f14d:89b3:ace4]	1900	*	*											
+svchost.exe	2120	UDPV6	desktop-med4sld	3702	*	*											
+svchost.exe	2120	UDPV6	desktop-med4sld	3702	*	*											
+svchost.exe	1640	UDPV6	desktop-med4sld	5353	*	*											
+svchost.exe	1640	UDPV6	desktop-med4sld	5355	*	*											
+svchost.exe	2120	UDPV6	desktop-med4sld	54081	*	*											
+svchost.exe	5476	UDPV6	[fe80:0:0:0:6da3:f14d:89b3:ace4]	58713	*	*											
+svchost.exe	5476	UDPV6	[0:0:0:0:0:0:0:1]	58714	*	*											
+System	4	TCP	desktop-med4sld.ksd.edu	netbios-ssn	DESKTOP-MED4SLD	0	LISTENING										
+System	4	TCP	DESKTOP-MED4SLD	microsoft-ds	DESKTOP-MED4SLD	0	LISTENING										
+System	4	TCP	DESKTOP-MED4SLD	wsd	DESKTOP-MED4SLD	0	LISTENING										
+System	4	UDP	desktop-med4sld.ksd.edu	netbios-ns	*	*				44	2,920						
+System	4	UDP	desktop-med4sld.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-med4sld	microsoft-ds	desktop-med4sld	0	LISTENING										
+System	4	TCPV6	desktop-med4sld	wsd	desktop-med4sld	0	LISTENING										
+wininit.exe	532	TCP	DESKTOP-MED4SLD	49665	DESKTOP-MED4SLD	0	LISTENING										
+wininit.exe	532	TCPV6	desktop-med4sld	49665	desktop-med4sld	0	LISTENING										
